@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.exe.config
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.exe
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.pdb
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.xml
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\MainWindow.g.vb
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\Application.g.vb
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator_MarkupCompile.cache
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator_MarkupCompile.lref
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.g.resources
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.Resources.resources
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.exe
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.xml
+C:\Users\user\source\repos\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.pdb
